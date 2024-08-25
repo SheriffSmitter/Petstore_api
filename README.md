@@ -20,10 +20,10 @@
 ---
 
 ### Запуск автотестов осуществляется с использованием Jenkins
-> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_Petstore_api_test/)
+> [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_Petstore_api/)
 
 #### Для запуска автотестов в Jenkins
-1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/zmamedov-qa_guru_Petstore_api_test/)
+1. Открыть [задачу в Jenkins](https://jenkins.autotests.cloud/job/Vadim_Korolev_Petstore_api/)
 
 ![jenkins job main page](pictures/Jenkins_job_main_page.png)
 
@@ -46,7 +46,7 @@
 ---
 
 ### Интеграция с Jira
-> [Задача в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1234)
+> [Задача в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1331)
  
 ![jira task](pictures/jira_task.png)
 
