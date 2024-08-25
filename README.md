@@ -39,7 +39,7 @@
 
 ### Интеграция с Allure TestOps
 
-> [Job #3989 zmamedov-qa_guru_Petstore_api_test](https://allure.autotests.cloud/project/4397)
+> [Job #4397 Vadim Korolev Petstore api](https://allure.autotests.cloud/project/4397)
 
 ![allure_testops job](pictures/allure_testops_job.png)
 
